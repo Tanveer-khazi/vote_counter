@@ -18,7 +18,7 @@ document.getElementById("mns").addEventListener('click', function(){
 });
 
 document.getElementById("submit").addEventListener('click', function(){
- document.getElementById("total").innerHTML=`BJP got Vote:${bjpCounter} Congress got vote:${congCount} MNS got Vote:${mnsCount}`
+ document.getElementById("total").innerHTML=`BJP got Vote :  ${bjpCounter}.  Congress got vote  :  ${congCount}.  MNS got Vote  :  ${mnsCount}`
 });
 
 
