@@ -1,0 +1,23 @@
+.conatiner {
+    border: 2px solid black;
+    width: auto;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    align-items: center;
+}
+
+.btnn {
+    padding: 4px;
+    margin-left: 51px;
+}
+
+.sbmt {
+    align-items: center;
+    display: flex;
+    margin-left: 631px;
+}
+
+.countng {
+    margin-left: 61px;
+}
