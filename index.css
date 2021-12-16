@@ -1,24 +1,55 @@
 .conatiner {
+    padding: 145px;
     border: 2px solid black;
+    height: 200px;
     width: auto;
     display: flex;
     justify-content: space-evenly;
     flex-direction: row;
     align-items: center;
+    justify-content: space-between;
+    background-color: #b3939354;
+}
+
+.container1 {
+    background-color: #deb8876e;
+    border: 2px solid black;
+    width: 25rem;
+    justify-content: space-between;
+    margin: 2rem;
+}
+
+.h {
+    justify-content: center;
+    margin-left: 19px;
 }
 
 .btnn {
+    width: 70px;
     padding: 4px;
-    margin-left: 51px;
+    margin-left: 102px;
+    align-items: 4rem;
+    justify-content: center;
 }
 
 .sbmt {
-    align-items: center;
-    display: flex;
-    margin-left: 197px;
-    margin-top: 25px;
+    justify-content: center;
+    display: inline-block;
+    margin-left: 198px;
+    border: rgb(13, 17, 26);
+    background-color: crimson;
+    padding: 8px;
+    width: 79px;
+}
+
+#total {
+    width: auto;
 }
 
 .countng {
-    margin-left: 61px;
+    margin-left: 130px;
+}
+
+h1 {
+    margin-left: 47px;
 }
